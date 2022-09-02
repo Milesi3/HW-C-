@@ -1,0 +1,15 @@
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\bin\Debug\net6.0\Program8.exe
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\bin\Debug\net6.0\Program8.deps.json
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\bin\Debug\net6.0\Program8.runtimeconfig.json
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\bin\Debug\net6.0\Program8.dll
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\bin\Debug\net6.0\Program8.pdb
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\obj\Debug\net6.0\Program8.csproj.AssemblyReference.cache
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\obj\Debug\net6.0\Program8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\obj\Debug\net6.0\Program8.AssemblyInfoInputs.cache
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\obj\Debug\net6.0\Program8.AssemblyInfo.cs
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\obj\Debug\net6.0\Program8.csproj.CoreCompileInputs.cache
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\obj\Debug\net6.0\Program8.dll
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\obj\Debug\net6.0\refint\Program8.dll
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\obj\Debug\net6.0\Program8.pdb
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\obj\Debug\net6.0\Program8.genruntimeconfig.cache
+C:\Users\irina\Desktop\GB\Semenar C# HW\Program8\obj\Debug\net6.0\ref\Program8.dll
